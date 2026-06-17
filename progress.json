@@ -1,7 +1,7 @@
 {
-  "current_juz": 0,
-  "completed_juz": [],
-  "started_at": null,
-  "last_run": null,
-  "status": "not_started"
+  "current_juz": 1,
+  "completed_juz": [1],
+  "started_at": "2026-06-17T16:01:00Z",
+  "last_run": "2026-06-17T16:24:39Z",
+  "status": "in_progress"
 }
