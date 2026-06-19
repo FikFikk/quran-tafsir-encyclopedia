@@ -1,7 +1,9 @@
 {
-  "current_juz": 1,
-  "completed_juz": [1],
+  "current_juz": 3,
+  "completed_juz": [1, 2],
   "started_at": "2026-06-17T16:01:00Z",
-  "last_run": "2026-06-17T16:24:39Z",
+  "last_run": "2026-06-19T15:17:15Z",
+  "last_completed_juz": 2,
+  "last_completed_date": "2026-06-19",
   "status": "in_progress"
 }
